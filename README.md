@@ -69,4 +69,5 @@
     <img alt="Shows edoardols's GitHub Stats." src="https://raw.githubusercontent.com/edoardols/edoardols/output/snake.svg" alt="Snake animation">
   </picture>
 </a>
-generated with [Platane/snk](https://github.com/Platane/snk)
+
+<sub><sup>Animation generated with [Platane/snk](https://github.com/Platane/snk)</sup></sub>
