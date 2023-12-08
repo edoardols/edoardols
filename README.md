@@ -12,7 +12,7 @@
 
 <a href="https://github.com/edoardols/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edoardols&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edoardols&theme=dracula">
   <img alt="Shows edoardols's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=edoardols&theme=default">
 </picture>
 </a>
