@@ -21,8 +21,8 @@
 
 <a href="https://github.com/edoardols/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edoardols&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false">
-  <img alt="Shows edoardols's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=edoardols&theme=default">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edoardols&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph">
+  <img alt="Shows edoardols's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs?username=edoardols&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="140" alt="languages graph">
 </picture>
 </a>
 
