@@ -62,6 +62,8 @@
 
 ###
 
+<h2 align="left">Snake </h2>
+
 <br clear="both">
 <a href="https://github.com/edoardols/github-readme-stats">
   <picture>
@@ -72,4 +74,4 @@
 
 ###
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+generated with [Platane/snk](https://github.com/Platane/snk)
