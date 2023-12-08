@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">Snake </h2>
+<h2 align="left">Snake</h2>
 
 <br clear="both">
 <a href="https://github.com/edoardols/github-readme-stats">
