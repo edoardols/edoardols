@@ -70,4 +70,4 @@
   </picture>
 </a>
 
-<sub><sup>Animation generated with [Platane/snk](https://github.com/Platane/snk)</sup></sub>
+<sup>Animation generated with [Platane/snk](https://github.com/Platane/snk)</sup>
