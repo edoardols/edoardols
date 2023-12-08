@@ -69,6 +69,5 @@
     <img alt="Shows edoardols's GitHub Stats." src="https://raw.githubusercontent.com/edoardols/edoardols/output/snake.svg" alt="Snake animation">
   </picture>
 </a>
-<img src="https://raw.githubusercontent.com/edoardols/edoardols/output/snake.svg" alt="Snake animation"/>
 
 ###
