@@ -62,8 +62,6 @@
 
 ###
 
-<h2 align="left">Snake</h2>
-
 <br clear="both">
 <a href="https://github.com/edoardols/github-readme-stats">
   <picture>
@@ -71,7 +69,4 @@
     <img alt="Shows edoardols's GitHub Stats." src="https://raw.githubusercontent.com/edoardols/edoardols/output/snake.svg" alt="Snake animation">
   </picture>
 </a>
-
-###
-
 generated with [Platane/snk](https://github.com/Platane/snk)
