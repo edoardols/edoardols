@@ -33,12 +33,6 @@
 ###
 
 <div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java" height="30" alt="java logo">
-    <img alt="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-    <img width="12">
-  </picture>
-  
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
@@ -69,36 +63,12 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/edoardols/edoardols/output/snake.svg" alt="Snake animation" />
+<a href="https://github.com/edoardols/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edoardols/edoardols/output/snake-dark.svg" alt="Snake animation">
+    <img alt="Shows edoardols's GitHub Stats." src="https://raw.githubusercontent.com/edoardols/edoardols/output/snake.svg" alt="Snake animation">
+  </picture>
+</a>
+<img src="https://raw.githubusercontent.com/edoardols/edoardols/output/snake.svg" alt="Snake animation"/>
 
 ###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="30" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-</div>

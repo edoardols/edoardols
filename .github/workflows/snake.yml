@@ -26,7 +26,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: edoardols
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
           
           
       # push the content of <build_dir> to a branch
